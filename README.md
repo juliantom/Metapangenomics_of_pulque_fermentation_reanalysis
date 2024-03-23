@@ -1,4 +1,4 @@
-# Metapangenomics_of_pulque_fermentation_reanalysis
+# Metapangenomics of pulque fermentation reanalysis
 Reanalysis of metagenomes from pulque fermentation implementing metapangenomics.
 
 ### Microbial populations in pulque
